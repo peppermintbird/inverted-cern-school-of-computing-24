@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CERN//INDICO//EN
+BEGIN:VEVENT
+SUMMARY:Inverted CERN School of Computing 2024
+DTSTART:20240415T070000Z
+DTEND:20240418T160000Z
+DTSTAMP:20240412T163000Z
+UID:indico-event-1334738@indico.cern.ch
+CONTACT:Computing.School@cern.ch
+DESCRIPTION:Speakers: Andrzej Nowicki (CERN)\, Kristina Gunne (CERN)\, Alb
+ erto Pace (CERN)\n\nThe Inverted CSC (iCSC) is a 4 day long school\, orga
+ nised at CERN. It consists of lectures and hands-on exercises on a variety
+  of topics\, given by former CSC students. This school provides the studen
+ ts with a platform to share their knowledge – and by doing so\, it effec
+ tively “inverts” the roles by turning students into teachers.\nWe are 
+ mainly inviting the most recent students to apply\, but welcome abstracts 
+ from any former CSC student as well. The topics for the iCSC 2024 will inc
+ lude HEP computing and simulations\, Natural Language Processing\, Compute
+ r Networks and many others. More information on the full programme will fo
+ llow shortly. \nThe school will take place on April 15-18\, 2024 as a hyb
+ rid event - at CERN and on Zoom.  \nRegistration is open!By registering y
+ ou are not obliged to stay for all lectures\, you can attend the ones that
+  interest you the most.\n\n\nhttps://indico.cern.ch/event/1334738/\n\nInve
+ rted CERN School of Computing 2024: https://cern.zoom.us/j/61190484481?pwd
+ =NVRkckk3NTZ4YU1ObUpnSnpFVy9qZz09
+LOCATION:31/3-004 - IT Amphitheatre (CERN)
+URL:https://indico.cern.ch/event/1334738/
+END:VEVENT
+END:VCALENDAR
