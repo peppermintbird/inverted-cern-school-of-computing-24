@@ -14,7 +14,7 @@
       - Evaluating the possible speedup hardware can provide
       - How physical limitations in instruction/memory access affect your code
 
-  📎Materials
+  📎**Materials**
    [PDF](https://indico.cern.ch/event/1334738/contributions/5814273/attachments/2833241/4950521/Zenny_Wettersten_The_perfectly_parallel_program_hour1.pdf)
 
 ###### [The perfectly parallel program: Design philosophy for parallel programming (2/2) - Zenny Wettersten](https://indi.to/fQd4q)
