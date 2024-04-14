@@ -37,7 +37,7 @@
       Git beyond the basic add, commit, push routine. We'll consolidate core concepts and introduce powerful 
       commands like switch, restore, rebase, and reset.
 
-📎Materials
+📎**Materials**
  [PDF](https://indico.cern.ch/event/1334738/contributions/5814285/attachments/2833252/4950544/git-good.pdf)
  
  ---
