@@ -24,7 +24,7 @@
      - Considerations for designing a parallel algorithm with respect to control flow and memory access
      - Legacy code, and how to go about re-designing existing software for novel hardware
 
-  📎 Materials
+  📎 **Materials**
    [PDF](https://indico.cern.ch/event/1334738/contributions/5814274/attachments/2833242/4950523/Zenny_Wettersten_The_perfectly_parallel_program_hour2.pdf)
 
 ---
